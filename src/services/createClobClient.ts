@@ -53,3 +53,4 @@ const createClobClient = async (): Promise<ClobClient> => {
 };
 
 export default createClobClient;
+
