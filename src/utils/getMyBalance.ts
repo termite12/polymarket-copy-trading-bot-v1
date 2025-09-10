@@ -24,3 +24,4 @@ const getMyBalance = async (address: string): Promise<number> => {
 };
 
 export default getMyBalance;
+
